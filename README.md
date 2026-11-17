@@ -87,6 +87,8 @@ Also verified live: end-to-end synthesis through a real `TextToAudioStream`
 (347 KB WAV captured), Chatterbox rejection without a `voice_uuid`, and a bad
 API key mapping to a failed synthesis.
 
+Sample counts vary slightly between runs; the table records one measured run.
+
 Behavior notes, verified live:
 
 - MiniMax generations go through GMI Cloud's queue. Most complete in seconds;
